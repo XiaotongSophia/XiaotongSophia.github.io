@@ -38,6 +38,8 @@ Project timeline: 2023.02-2023.06
 ## [Link to Introduction of MP-SPDZ](https://mp-spdz.readthedocs.io/en/latest/ml-quickstart.html)
 ## [Link to Code of MP-SPDZ](https://github.com/data61/MP-SPDZ)
 ## [Link to Miro](https://miro.com/app/board/uXjVPjR9MYs=/)
-## [Links to Meeting Notes](https://drive.google.com/drive/u/1/folders/1IA_D40rq7FLB_uw9RUoSRrlGZ6Kc-8Xl)
+## [Links to Team Charter](https://drive.google.com/drive/u/1/folders/1IA_D40rq7FLB_uw9RUoSRrlGZ6Kc-8Xl)
+## [Links to Decision Log](https://docs.google.com/spreadsheets/d/1nkx4IdIY7d0pPP3vTCwvZQnn6ardF2Hd/edit#gid=1408635962)
+## [Link to Project Gantt Chart](https://docs.google.com/spreadsheets/d/18iPEUWNaEiEkPMvJKbRuYyEj92k0Lmes/edit#gid=542302743)
 
 ## Links to Requirement Specs
