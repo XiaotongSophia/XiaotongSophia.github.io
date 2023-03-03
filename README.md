@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Secure%20Machine%20Learning&fontSize=110" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Secure%20Machine%20Learning&fontSize=90" />
 <!--
 https://github.com/kyechan99/capsule-render#fontcolor）
 -->
