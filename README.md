@@ -3,7 +3,7 @@
 https://github.com/kyechan99/capsule-render#fontcolor）
 -->
 
-# Secure Machine Learning Landing Page
+
 ## Project Overview
 ## Client/Client Motivation/Background
 Client Name: Marcel Keller
