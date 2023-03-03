@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Security%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Security&fontSize=90&rotate=-30" />
 # SecureMachineLearning Landing Page
 ## Project Overview
 ## Client/Client Motivation/Background
