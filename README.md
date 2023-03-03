@@ -29,8 +29,15 @@ Project timeline: 2023.02-2023.06
 | Ryan Khennane	| u6913762 |
 | Can Cevik | u6885077 |
 
+## Meeting Time
+| Date | Type |
+|------|-------------- |
+| Tuesday 16:00 - 18:00 | Team Meeting |
+| Wednesday | Client Meeting|
+
 ## [Link to Introduction of MP-SPDZ](https://mp-spdz.readthedocs.io/en/latest/ml-quickstart.html)
 ## [Link to Code of MP-SPDZ](https://github.com/data61/MP-SPDZ)
 ## [Link to Miro](https://miro.com/app/board/uXjVPjR9MYs=/)
 ## [Links to Meeting Notes](https://drive.google.com/drive/u/1/folders/1IA_D40rq7FLB_uw9RUoSRrlGZ6Kc-8Xl)
+
 ## Links to Requirement Specs
