@@ -1,9 +1,9 @@
 # SecureMachineLearning Landing Page
 ## Project Overview
 ## Client/Client Motivation/Background
-**Client Name: Marcel Keller
+Client Name: Marcel Keller
 
-Client Organisation: Data61 CSIRO**
+Client Organisation: Data61 CSIRO
 ## Team Members
 | Name | University ID |
 |------|-------------- |
