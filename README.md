@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Security&fontSize=110" />
-[//]:#(https://github.com/kyechan99/capsule-render#fontcolor）
-
+<!--
+https://github.com/kyechan99/capsule-render#fontcolor）
+-->
 
 # Secure Machine Learning Landing Page
 ## Project Overview
