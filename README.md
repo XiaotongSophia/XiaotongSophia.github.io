@@ -33,7 +33,7 @@ Project timeline: 2023.02-2023.06
 | Date | Type |
 |------|-------------- |
 | Tuesday 16:00 - 18:00 | Team Meeting |
-| Wednesday | Client Meeting|
+| Wednesday 15:30 - 17:30| Client Meeting|
 
 ## [Link to Introduction of MP-SPDZ](https://mp-spdz.readthedocs.io/en/latest/ml-quickstart.html)
 ## [Link to Code of MP-SPDZ](https://github.com/data61/MP-SPDZ)
