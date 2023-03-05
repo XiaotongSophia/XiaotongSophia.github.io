@@ -23,7 +23,6 @@ Project timeline: 2023.02-2023.06
 |------|-------------- |
 | Sean Barnes | u6873285 |
 | Paras Patange | u7291471|
-| Daming Huang	| u7434285 |
 | Xiaotong Wang	| u6169092 |
 | Ahmed Mousawi	| u7112358 |
 | Ryan Khennane	| u6913762 |
