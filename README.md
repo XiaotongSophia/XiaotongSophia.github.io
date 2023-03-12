@@ -33,14 +33,14 @@ Project timeline: 2023.02-2023.06
 |------|-------------- |
 | Tuesday 16:00 - 18:00 | Tutorial Meeting |
 | Wednesday 15:30 - 17:30| Client Meeting|
-| Saturday 19:00 - 21:00| Team Meeting|
+| Sunday 19:00 - 21:00| Team Meeting|
 
 ## [Link to Statement of Work](https://docs.google.com/document/d/1PZwcAd88kfjuMj8ynfwdfQWhNWgWu2Me1yDFtsbTI10/edit?usp=sharing)
 ## [Link to Introduction of MP-SPDZ](https://mp-spdz.readthedocs.io/en/latest/ml-quickstart.html)
 ## [Link to Code of MP-SPDZ](https://github.com/data61/MP-SPDZ)
 ## [Link to Task Tracking](https://miro.com/app/board/uXjVPjR9MYs=/)
 ## [Link to Stakeholder Analysis](https://miro.com/app/board/uXjVMfkcOEk=/)
-## [Link to Project Client Map](https://miro.com/app/board/uXjVPjRYJtw=/)
+## [Link to Project Client Map](https://miro.com/app/board/uXjVMfkcOEk=/)
 ## [Link to Meeting Minutes](https://drive.google.com/drive/folders/16LhibCfd06TyH4-3xPBaNQMNuGnEElEW)
 ## [Links to Team Charter](https://docs.google.com/document/d/1I5LZwnmgUVCRYYSPBkaznQzCqvFD1-fk/edit)
 ## [Links to Decision Log](https://docs.google.com/spreadsheets/d/1nkx4IdIY7d0pPP3vTCwvZQnn6ardF2Hd/edit#gid=1408635962)
