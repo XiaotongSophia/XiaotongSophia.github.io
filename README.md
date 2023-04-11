@@ -46,5 +46,7 @@ Project timeline: 2023.02-2023.06
 ## [Links to Decision Log](https://docs.google.com/spreadsheets/d/1nkx4IdIY7d0pPP3vTCwvZQnn6ardF2Hd/edit#gid=1408635962)
 ## [Link to Project Gantt Chart](https://docs.google.com/spreadsheets/d/18iPEUWNaEiEkPMvJKbRuYyEj92k0Lmes/edit#gid=542302743)
 ## [Link to Risk Management](https://docs.google.com/spreadsheets/d/1Y21lqAagd4rDACf7TAg68KaxS2UqvOoUfzTwojKAfl8/edit#gid=0)
-## [Link to Reflection Log](https://docs.google.com/document/d/17tbad-uUrClPBtvroFS1phQUKwCasDoLz9vKn1PH1Bk/edit#heading=h.z6ne0og04bp5)
+## [Link to Reflection Log](https://docs.google.com/spreadsheets/d/16cOVInDnD2V2FjELRmDKxsO32VjIjtvzao8wkdzmtvE/edit#gid=0)
+## [Link to Research Report](https://docs.google.com/document/d/1SVi_INieLTUZZUqQD5x6hRx34L7LLFwQ5-P2nbzE6lc/edit)
+## [Link to Tutorial Agendas](https://drive.google.com/drive/folders/1m0Ty0woD5vYeGQV-YufzWRJwAqJXROce)
 ## Link to CSIRO Student Agreement (Update by the end of March)
