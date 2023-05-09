@@ -50,4 +50,6 @@ Project timeline: 2023.02-2023.06
 ## [Link to Reflection Log](https://docs.google.com/spreadsheets/d/16cOVInDnD2V2FjELRmDKxsO32VjIjtvzao8wkdzmtvE/edit#gid=0)
 ## [Link to Research Report](https://docs.google.com/document/d/1SVi_INieLTUZZUqQD5x6hRx34L7LLFwQ5-P2nbzE6lc/edit)
 ## [Link to Tutorial Agendas](https://drive.google.com/drive/folders/1m0Ty0woD5vYeGQV-YufzWRJwAqJXROce)
+## [Link to Showcase Video](https://drive.google.com/drive/u/0/folders/1zLHlI8L4wwl987mHPrmb-_zBkVAofCKG)
+## [Link to Poster](https://docs.google.com/document/d/1QIfsifDepQ6GBQbRuIzUuH7ZgA6gm331eVg66g1G9vM/edit)
 ## Link to CSIRO Student Agreement (Pending)
